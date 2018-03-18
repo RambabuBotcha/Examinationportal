@@ -14,6 +14,7 @@ public class Question implements Serializable {
 	/**
 	 * 
 	 */
+	// Sample comment
 	private static final long serialVersionUID = 1L;
 	@Id
 	@Column(name = "id")
